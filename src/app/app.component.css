@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  color: brown;
+}
+
+#bt_Back {
+  color: red;
+}
+
+.btn1 {
+  font: oblique 100% cursive;
+  margin-top: -110px;
+  margin-bottom: 10px;
+  padding-left: 45px;
+}
+
+.btn {
+  color: red;
+  font-size: xx-large;
+  float: right;
+  margin-top: -60px;
+  margin-right: 10px;
+}
+
+.app {
+  background-color: rgba(192, 192, 192, 0.452);
+  width: 400px;
+  height: 800px;
+  position: relative;
+  padding-top: 40px;
+}
+
+.title {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-bottom: 20px;
+  font-size: 30px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.list {
+  padding: 4px;
+  background-color: honeydew;
+  width: 90%;
+  height: 60%;
+  margin: auto;
+  border-radius: 15px;
+}
+
+.ticket {
+  border-top: 1px solid slategray;
+  padding-bottom: 5px;
+  width: 100%;
+  height: 80px;
+}
+
+.de {
+  margin-left: 10px;
+  font: oblique 80% cursive;
+}
+
+.status {
+  margin-left: 10px;
+  margin-top: 0px;
+  background-color: rgba(255, 72, 72, 0.836);
+  width: 80px;
+  color: aliceblue;
+  border-radius: 5px;
+  text-align: center;
+  font: oblique 100% cursive;
+}
+
+.subject {
+  width: 250px;
+  margin-left: 70px;
+  margin-top: -20px;
+  color: black;
+  font: oblique bold 100% cursive;
+}
+
+.date {
+  margin-top: -45px;
+  float: right;
+  font: oblique 80% cursive;
+}
+
+.body {
+  margin-left: 15px;
+  margin-top: 0px;
+  font: oblique 100% cursive;
+  width: 250px;
+  height: 30px;
+}
+
+#img {
+  margin-top: 200px;
+  margin-left: 90px;
+  width: 200px;
+  height: 60px;
+}
+
+.footer {
+  width: 100%;
+  height: 50%;
+}/*# sourceMappingURL=app.component.css.map */

@@ -1,0 +1,152 @@
+*{
+  margin: 0;
+}
+
+
+#bt_Back {
+  color: red;
+}
+
+.btnBack {
+  border: none;
+  background: none;
+  color: red;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: x-large;
+  padding-left: 20px;
+  margin-top: -60px;
+}
+
+.btn1 {
+  background: none;
+  border: none;
+  font: oblique 125% cursive;
+  margin-top: -29px;
+  margin-bottom: 15px;
+  padding-left: 45px;
+}
+
+#btn {
+  border: none;
+  background: none;
+  color: red;
+  font-size: x-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  float: right;
+  margin-top: -50px;
+  margin-right: 0px;
+}
+
+#btnSolved {
+  border: none;
+  background: none;
+  color: red;
+  font-size: x-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  float: right;
+  margin-top: -20px;
+  margin-right: 0px;
+}
+
+.app {
+  border: inset 1px black;
+  background-color: rgba(192, 192, 192, 0.452);
+  width: 400px;
+  height: 700px;
+  position: relative;
+  padding-top: 40px;
+
+  box-shadow: inset -10px -15px 15px -10px rgb(255, 251, 251);
+}
+.title {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(65, 63, 63);
+  margin-bottom: 20px;
+  font-size: 30px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.list {
+  padding: 4px;
+  background-color: white;
+  width: 90%;
+  padding-bottom: 5px;
+  margin: auto;
+  border-radius: 8px;
+  border: rgba(104, 104, 104, 0.452);
+  box-shadow: 0 0 5px 0 rgb(172, 172, 172);
+}
+
+.ticket {
+  border-top: 1px solid rgba(192, 192, 192, 0.452);
+  padding-bottom: 5px;
+  width: 100%;
+  height: 80px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+#from {
+  margin-top: 5px;
+  margin-left: 10px;
+  color: rgb(114, 114, 114);
+  font: oblique 80% cursive;
+}
+
+#Snew {
+  margin-left: 10px;
+
+  margin-top: 5px;
+  background-color: rgba(255, 72, 72, 0.836);
+  width: 55px;
+
+  color: aliceblue;
+  border-radius: 5px;
+  text-align: center;
+  font: oblique 80% cursive;
+}
+.statusSolved {
+  margin-left: 10px;
+  margin-top: 5px;
+  background-color: rgba(130, 14, 175, 0.863);
+  width: 95px;
+  color: aliceblue;
+  border-radius: 5px;
+  text-align: center;
+  font: oblique 80% cursive;
+}
+.subject {
+  width: 250px;
+  margin-left: 100px;
+  margin-top: -25px;
+  padding-left: 10px;
+  color: black;
+  font: oblique bold 100% cursive;
+}
+
+.body {
+  margin-left: 10px;
+  margin-top: 0px;
+  color: rgb(114, 114, 114);
+  font: oblique 100% cursive;
+  width: 250px;
+  height: 30px;
+}
+.date {
+  color: rgb(114, 114, 114);
+  margin-top: -45px;
+  float: right;
+  font: oblique 80% cursive;
+}
+
+#img {
+  margin-bottom: -150px;
+  margin-left: 90px;
+  width: 200px;
+  height: 60px;
+}
+.footer {
+  width: 100%;
+  height: 50%;
+}
